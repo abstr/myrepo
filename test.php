@@ -1,1 +1,1 @@
-<?phpecho 'myrepo test';
+<?phpecho 'myrepo test 2';
